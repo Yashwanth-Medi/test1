@@ -1,4 +1,4 @@
-/*package com.infinite.dbutils;
+package com.infinite.dbutils;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -27,4 +27,3 @@ public class HibernateUtil {
 		return sessionFactory;
 	}
 }
-*/
